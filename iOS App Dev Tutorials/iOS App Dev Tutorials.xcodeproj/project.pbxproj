@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0D77BCCB2940B233002D8F14 /* iOS_App_Dev_TutorialsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D77BCCA2940B233002D8F14 /* iOS_App_Dev_TutorialsApp.swift */; };
-		0D77BCCD2940B233002D8F14 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D77BCCC2940B233002D8F14 /* ContentView.swift */; };
+		0D77BCCD2940B233002D8F14 /* MeettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D77BCCC2940B233002D8F14 /* MeettingView.swift */; };
 		0D77BCCF2940B233002D8F14 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D77BCCE2940B233002D8F14 /* Assets.xcassets */; };
 		0D77BCD22940B233002D8F14 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D77BCD12940B233002D8F14 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		0D77BCC72940B233002D8F14 /* iOS App Dev Tutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS App Dev Tutorials.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D77BCCA2940B233002D8F14 /* iOS_App_Dev_TutorialsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_App_Dev_TutorialsApp.swift; sourceTree = "<group>"; };
-		0D77BCCC2940B233002D8F14 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0D77BCCC2940B233002D8F14 /* MeettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeettingView.swift; sourceTree = "<group>"; };
 		0D77BCCE2940B233002D8F14 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D77BCD12940B233002D8F14 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				0D77BCCA2940B233002D8F14 /* iOS_App_Dev_TutorialsApp.swift */,
-				0D77BCCC2940B233002D8F14 /* ContentView.swift */,
+				0D77BCCC2940B233002D8F14 /* MeettingView.swift */,
 				0D77BCCE2940B233002D8F14 /* Assets.xcassets */,
 				0D77BCD02940B233002D8F14 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D77BCCD2940B233002D8F14 /* ContentView.swift in Sources */,
+				0D77BCCD2940B233002D8F14 /* MeettingView.swift in Sources */,
 				0D77BCCB2940B233002D8F14 /* iOS_App_Dev_TutorialsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
